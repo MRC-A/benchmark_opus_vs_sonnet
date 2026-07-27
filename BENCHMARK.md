@@ -1,3 +1,6 @@
+(Benchmark effectué avec Opus 5 donc Biais)
+
+
 # Benchmark Opus 5 vs Sonnet 5 — planificateur de repas
 
 Évaluation d'un run par modèle sur un brief identique. Méthode : inventaire, lecture
