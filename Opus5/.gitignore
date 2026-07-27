@@ -1,0 +1,12 @@
+# Données locales de l'utilisateur : jamais versionnées.
+data/
+*.db
+*.db-journal
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
+.pytest_cache/
+.DS_Store
