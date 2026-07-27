@@ -1,1 +1,1 @@
-# Test Opus 5 / Sonnet 5
+# Test Claude code: Opus 5 vs Sonnet 5
